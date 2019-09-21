@@ -1,0 +1,7 @@
+C:\Users\reela\source\repos\lig turnuvası\lig turnuvası\bin\Debug\lig turnuvası.exe.config
+C:\Users\reela\source\repos\lig turnuvası\lig turnuvası\bin\Debug\lig turnuvası.exe
+C:\Users\reela\source\repos\lig turnuvası\lig turnuvası\bin\Debug\lig turnuvası.pdb
+C:\Users\reela\source\repos\lig turnuvası\lig turnuvası\obj\Debug\lig turnuvası.csprojAssemblyReference.cache
+C:\Users\reela\source\repos\lig turnuvası\lig turnuvası\obj\Debug\lig turnuvası.csproj.CoreCompileInputs.cache
+C:\Users\reela\source\repos\lig turnuvası\lig turnuvası\obj\Debug\lig turnuvası.exe
+C:\Users\reela\source\repos\lig turnuvası\lig turnuvası\obj\Debug\lig turnuvası.pdb
